@@ -1,0 +1,7 @@
+credentials.txt
+db.sqlite3
+expenseswebsite/__pycache__
+expenses/__pycache__
+authentication/__pycache__
+*.pyc
+!spec/*.pyc
